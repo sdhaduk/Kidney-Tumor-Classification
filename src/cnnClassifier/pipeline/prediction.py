@@ -21,6 +21,7 @@ class PredictionPipeline:
         result = np.argmax(model.predict(test_image), axis=1)
         print(result)
 
+
         if result[0] == 1:
             prediction = 'Tumor'
             return [{ "image" : prediction}]
