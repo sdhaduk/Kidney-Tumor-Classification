@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-a
 https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing
 
 ### Hosted At
-
+http://54.209.136.228:8080/
 
 # How to run locally
 
