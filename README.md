@@ -12,6 +12,11 @@ https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=shari
 ### Hosted At
 http://54.209.136.228:8080/
 
+### Demo:
+In this demo you can see that I upload multiple images of a ct scan of kidneys. These images are then compressed to the target size of 224x224, turned into a tensor, and are finally fed into the model. The prediction is returned and sent to the user.
+
+https://github.com/user-attachments/assets/9570cd10-97ac-49fb-b158-82a5fc9dabee
+
 # How to run locally
 
 ### STEPS:
